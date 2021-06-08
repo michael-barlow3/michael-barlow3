@@ -25,7 +25,7 @@ One of my personal areas of expertise and work is in the area of Web Accessibili
 - 🌱 I’m currently learning anything I can. Trying to improve my knowledge and expertise on DevOps
 - 📫 [Personal Email](mailto:barlowm@gmail.com?subject=Read%20your%20GitHub%20profile...&body=and%20would%20like%20to%20discuss%20something%20with%20you...) is probably the best way (though I am on several slack and discord groups as well and you can usually find me there under the name "MikeB")
 - ⚡ Fun fact: I have been asked and told that I resemble a "jolly old elf" and that is for a good reason, I AM [Santa Claus](https://raw.githubusercontent.com/barlowm/barlowm/master/images/SantaProfilePicSML.jpg) (in disguise wink)
-- If you want to learn more about my technical background I have a brief [resume](https://github.com/barlowm/barlowm/blob/master/m.barlow-resume-Sept2020.pdf) on my other GitHub account as well.
+- If you want to learn more about my technical background I have a brief [resume](https://github.com/barlowm/barlowm/blob/master/m.barlow-resume.pdf) on my other GitHub account as well.
 
 Thanks
 
