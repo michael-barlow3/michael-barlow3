@@ -30,8 +30,12 @@ One of my personal areas of expertise and work is in the area of Web Accessibili
 Thanks
 
 ## Mike Barlow
-- Technical Architect
-- Clinical Ancillary Product Line
-- EPMO Health Portfolio PMO/TM
-- Web Accessibility/Section 508 SME
-- Lancaster, Pa
+<div>Technical Architect</div><div>Clinical Ancillary Product Line</div><div>EPMO Health Portfolio PMO/TM</div><div>Web Accessibility/Section 508 SME</div><div>Lancaster, Pa</div>
+
+
+
+
+
+
+
+
